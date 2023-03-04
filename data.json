@@ -1,92 +1,92 @@
-{
-    "Song 1": {
-        "Artist" : ["Tinashe"],
+[
+    {
         "Title" : "Know Better",
-        "Genre": ["R&B", " Soul"],
+        "Artist" : ["Tinashe"],
+        "Genre": ["R&B", "Soul"],
         "Year": 2019
     }, 
-    "Song 2" : {
-        "Artist" : ["Kehlani", "Ty Dolla $ign"],
+    {
         "Title" : "Nights Like This",
+        "Artist" : ["Kehlani", "Ty Dolla $ign"],
         "Genre": ["R&B"],
         "Year": 2019
     },
-    "Song 3": {
-        "Artist" : ["Wizkid, Tems"],
+    {
         "Title" : "Essence",
+        "Artist" : ["Wizkid, Tems"],
         "Genre": ["R&B", "Reggae"],
         "Year": 2020
     },
-    "Song 4": {
-        "Artist" : ["Ella Mai", "Chris Brown"],
+    {   
         "Title" : "Whatchamacallit",
+        "Artist" : ["Ella Mai", "Chris Brown"],
         "Genre": ["R&B"],
         "Year": 2018
     },
-    "Song 5": {
-        "Artist" : ["H.E.R"],
+    {
         "Title" : "Hard Place",
+        "Artist" : ["H.E.R"],
         "Genre": ["Pop"],
         "Year": 2018
     },
-    "Song 6": {
-        "Artist" : ["King Princess"],
+    {
         "Title" : "Talia",
+        "Artist" : ["King Princess"],
         "Genre": ["Dance", "Electronic"],
         "Year": 2018
     },
-    "Song 7": {
-        "Artist" : ["Meghan Stallion"],
+    {
         "Title" : "Thot Shit",
+        "Artist" : ["Meghan Stallion"],
         "Genre": ["Rap"],
         "Year": 2021
     },
-    "Song 8": {
+    {
+        "Title" : "Simmer",
         "Artist" : ["Mahalia", "Burna Boy"],
-        "Title" : "Simmerr",
         "Genre": ["R&B", "Soul"],
         "Year": 2019
     },
-    "Song 9": {
-        "Artist" : ["Burna Boy"],
+    {
         "Title" : "Ye",
+        "Artist" : ["Burna Boy"],
         "Genre": ["Hiphop", "Dancehall"],
         "Year": 2020
     },
-    "Song 10": {
-        "Artist" : ["Doja Cat"],
+    {
         "Title" : "Woman",
+        "Artist" : ["Doja Cat"],
         "Genre": ["Pop"],
         "Year": 2021
     },
-    "Song 11": {
-        "Artist" : ["Rihanna"],
+    {
         "Title" : "Needed Me",
-        "Genre": ["Rhythm and Blues", "Trap", "Electronic"],
+        "Artist" : ["Rihanna"],
+        "Genre": ["Electronic"],
         "Year": 2016
     },
-    "Song 12": {
-        "Artist" : ["Kiana Lede"],
+    {
         "Title" : "EX",
+        "Artist" : ["Kiana Lede"],
         "Genre": ["R&B"],
         "Year": 2018
     },
-    "Song 13": {
-        "Artist" : ["Malaika Terry"],
+    {
         "Title" : "Low Fruit",
+        "Artist" : ["Malaika Terry"],
         "Genre": ["R&B"],
         "Year": 2018
     },
-    "Song 14": {
-        "Artist" : ["Becky Hill", "David Guetta"],
+    {
         "Title" : "Remember",
+        "Artist" : ["Becky Hill", "David Guetta"],
         "Genre": ["Dance"],
         "Year": 2021
     },
-    "Song 15": {
-        "Artist" : ["Rihanna"],
+    {
         "Title" : "S&M",
-        "Genre": ["Dance-pop", "Pop"],
+        "Artist" : ["Rihanna"],
+        "Genre": ["Dance", "Pop"],
         "Year": 2010
     }
-}
+]
