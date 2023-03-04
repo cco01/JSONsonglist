@@ -2,24 +2,24 @@
     {
         "Title" : "Know Better",
         "Artist" : ["Tinashe"],
-        "Genre": ["R&B", "Soul"],
+        "Genre": ["R&B", " Soul"],
         "Year": 2019
     }, 
     {
         "Title" : "Nights Like This",
-        "Artist" : ["Kehlani", "Ty Dolla $ign"],
+        "Artist" : ["Kehlani", " Ty Dolla $ign"],
         "Genre": ["R&B"],
         "Year": 2019
     },
     {
         "Title" : "Essence",
-        "Artist" : ["Wizkid, Tems"],
-        "Genre": ["R&B", "Reggae"],
+        "Artist" : ["Wizkid"],
+        "Genre": ["R&B", " Reggae"],
         "Year": 2020
     },
     {   
         "Title" : "Whatchamacallit",
-        "Artist" : ["Ella Mai", "Chris Brown"],
+        "Artist" : ["Ella Mai", " Chris Brown"],
         "Genre": ["R&B"],
         "Year": 2018
     },
@@ -32,7 +32,7 @@
     {
         "Title" : "Talia",
         "Artist" : ["King Princess"],
-        "Genre": ["Dance", "Electronic"],
+        "Genre": ["Dance", " Electronic"],
         "Year": 2018
     },
     {
@@ -43,14 +43,14 @@
     },
     {
         "Title" : "Simmer",
-        "Artist" : ["Mahalia", "Burna Boy"],
-        "Genre": ["R&B", "Soul"],
+        "Artist" : ["Mahalia", " Burna Boy"],
+        "Genre": ["R&B", " Soul"],
         "Year": 2019
     },
     {
         "Title" : "Ye",
         "Artist" : ["Burna Boy"],
-        "Genre": ["Hiphop", "Dancehall"],
+        "Genre": ["Hiphop", " Dancehall"],
         "Year": 2020
     },
     {
@@ -79,14 +79,14 @@
     },
     {
         "Title" : "Remember",
-        "Artist" : ["Becky Hill", "David Guetta"],
+        "Artist" : ["Becky Hill", " David Guetta"],
         "Genre": ["Dance"],
         "Year": 2021
     },
     {
         "Title" : "S&M",
         "Artist" : ["Rihanna"],
-        "Genre": ["Dance", "Pop"],
+        "Genre": ["Dance", " Pop"],
         "Year": 2010
     }
 ]
